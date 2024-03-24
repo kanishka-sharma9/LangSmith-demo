@@ -1,0 +1,6 @@
+langchain_core
+langchain
+python-dotenv
+langchain_openai
+langchain_google_genai
+google-generativeai
